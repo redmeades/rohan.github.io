@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Recent Notes</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts limit:8 %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        {% if post.layout == 'link' %}
+        <h2>
+          <span class="icon major fa-external-link"></span>
+          <a class="" href="{{ post.external_url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        {{ post.excerpt }}
+        {% elsif post.layout == 'newsletter' %}
+        <h2>
+          <span class="icon major fa-newspaper-o"></span>
+          <a class="" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        {{ post.excerpt }}
+        {% else %}
+        <h2>
+          <span class="icon major fa-file-text"></span>
+          <a class="" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        {{ post.excerpt }}
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>

@@ -1,0 +1,34 @@
+---
+layout: page
+title: Notes
+permalink: /notes/
+---
+
+<div class="home">
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        {% if post.layout == 'link' %}
+        <h3>
+          <span class="icon fa-external-link"></span>
+          <a class="" href="{{ post.external_url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h3>
+        {{ post.excerpt }}
+        {% elsif post.layout == 'newsletter' %}
+        <h3>
+          <span class="icon fa-newspaper-o"></span>
+          <a class="" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h3>
+        {% else %}
+        <h3>
+          <span class="icon fa-file-text"></span>
+          <a class="" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h3>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>

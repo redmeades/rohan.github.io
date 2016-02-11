@@ -1,0 +1,45 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Tempting Shortcuts
+email: rohan@rohanandkate.net
+description: > # this means to ignore newlines until "baseurl:"
+  I'm a laconic learner. This site is an attempt to rectify the former. I spend
+  most of my time thinking about the intersection of education, technology and
+  theology.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://rohan.rohanandkate.net" # the base hostname & protocol for your site
+twitter_username: redmeades
+github_username:  redmeades
+
+# Build settings
+markdown: kramdown
+#permalink: ordinal
+permalink: /notes/:categories/:year:month:day/:title/
+
+# ===== Octopress ==================
+# Default extension for new posts and pages
+post_ext: md
+page_ext: html
+
+# Default templates for posts and pages
+# Found in _templates/
+post_layout: post
+page_layout: page
+media_layout: media
+link_layout: link
+
+# Format titles with titlecase?
+titlecase: true
+
+# Change default template file (in _templates/)
+draft_template: draft
+post_template: post
+page_template: page
+media_template: media
+link_template: link

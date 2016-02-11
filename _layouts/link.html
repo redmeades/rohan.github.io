@@ -1,0 +1,17 @@
+---
+layout: default
+title: {{ title }}
+external_url: {{ external_url }}
+---
+<article class="link" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="link-header">
+    <h1 class="link-title" itemprop="name headline"><a href="{{ page.external_url }}">{{ page.title }}</a></h1>
+    <p class="link-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+</article>
