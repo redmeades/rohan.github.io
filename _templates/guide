@@ -1,0 +1,15 @@
+---
+layout: {{ layout }}
+title: "{{ title }}"
+date: {{ date }}
+---
+Introduction para
+
+{% include toc.html %}
+
+#Section 1
+
+##Subsection 1.1
+
+#Section 2
+
