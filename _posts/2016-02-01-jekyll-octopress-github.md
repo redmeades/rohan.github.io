@@ -2,6 +2,7 @@
 layout: post
 title: "Jekyll + Octopress + Github ="
 date: 2016-02-01T11:28:12+11:00
+comments: true
 ---
 This site is an adventure in producing for the web.
 

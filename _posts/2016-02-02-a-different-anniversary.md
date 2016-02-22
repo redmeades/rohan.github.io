@@ -2,6 +2,7 @@
 layout: post
 title: "A Different Anniversary"
 date: 2016-02-02T22:13:20+11:00
+comments: true
 ---
 A little bit different for Kate & my 14th anniversary:
 
