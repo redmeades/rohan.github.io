@@ -8,7 +8,7 @@ date: 2016-04-21
 This idea was [proposed by Derek Sivers](http://nownownow.com/about) as a place to respond to
 “what you’d tell a friend you hadn’t seen in a year”
 <hr />
-Updated: {{ page.date | date: "%b %-d, %Y" }}
+Updated: {{ page.date | date: "%b, %Y" }}
 
 I’m still coding, drumming, reading, pondering.
 
