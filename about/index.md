@@ -23,3 +23,12 @@ Theology, Education and Technology; and we are now known as [Eastern College Aus
 
 When people ask what I do, I generally say “my role goes from ‘if it plugs in it is my
 problem’ through to ‘5-year technology strategy for a private higher-education provider’”
+
+### This site is made with the following awesome, open tools
+
+* [Jekyll](https://jekyllrb.com/)
+* The [Ed](https://github.com/elotroalex/ed) theme
+* [Font Awesome](http://fontawesome.io) for fancy icons
+* [Ruby](https://www.ruby-lang.org/) underpins this stack
+* [Git](https://git-scm.com/) and [Github](https://github.com) manage and host the code
+* [Vim](http://www.vim.org/) edits it all together
