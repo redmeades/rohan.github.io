@@ -1,6 +1,0 @@
----
-layout: link
-title: "{{ title }}"
-date: {{ date }}
-external_url: {{ url }}
----

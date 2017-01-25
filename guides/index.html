@@ -8,11 +8,11 @@ menu: true
 <div class="home">
 
   <ul class="post-list">
-    {% for post in site.pages %}
+    {% for post in site.guides %}
       {% if post.layout == 'guide' %}
       <li>
         <h3>
-          <span class="icon fa-newspaper-o"></span>
+          <span class="fa fa-newspaper-o"></span>
           <a class="" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h3>
         {{ post.excerpt }}

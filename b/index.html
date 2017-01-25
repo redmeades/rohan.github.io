@@ -1,32 +1,40 @@
 ---
 layout: page
-title: Notes
-permalink: /notes/
-menu: true
+title: Log
+permalink: /b/
 ---
 
 <div class="home">
 
   <ul class="post-list">
-    {% for post in site.notes %}
+    {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         {% if post.layout == 'link' %}
-        <h3>
+        <h2>
           <span class="fa fa-external-link"></span>
-          <a class="" href="{{ post.external_url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h3>
+          <a class="" href="{{ post.external_url }}">{{ post.title }}</a>
+          <a class="" href="{{ post.url | prepend: site.baseurl }}">.</a>
+        </h2>
         {{ post.excerpt }}
         {% elsif post.layout == 'newsletter' %}
-        <h3>
+        <h2>
           <span class="fa fa-newspaper-o"></span>
           <a class="" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h3>
+        </h2>
+        {{ post.excerpt }}
+        {% elsif post.layout == 'tweet' %}
+        <h2>
+          <span class="fa fa-twitter-square"></span>
+          <a class="" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        {{ post.excerpt }}
         {% else %}
-        <h3>
+        <h2>
           <span class="fa fa-file-text"></span>
           <a class="" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h3>
+        </h2>
+        {{ post.excerpt }}
         {% endif %}
       </li>
     {% endfor %}

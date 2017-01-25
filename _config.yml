@@ -1,45 +1,64 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Built with Jekyll 3.2.0
 
-# Site settings
-title: Tempting Shortcuts
-email: rohan@rohanandkate.net
-description: > # this means to ignore newlines until "baseurl:"
-  I'm a laconic learner. This site is an attempt to rectify the former. I spend
-  most of my time thinking about the intersection of education, technology and
-  theology.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://rohan.rohanandkate.net" # the base hostname & protocol for your site
-twitter_username: redmeades
-github_username:  redmeades
+# Setup
+title:               'Tempting Shortcuts'
+tagline:             'Working notes on the longer path'
+description:         "I'm a laconic learner. This site is an attempt to rectify the former. I spend most of my time thinking about the intersection of education, technology and theology."
+url:                 'http://rohan.rohanandkate.net'
+baseurl:             ''
 
-# Build settings
+# About/contact
+author:
+  name:              Rohan Edmeades
+  url:               https://twitter.com/redmeades
+  email:             rohan@rohanandkate.net
+
+# Permalinks
+
+  #permalink: pretty
+permalink: /:title-:year:month:day/
+
+# Set encoding to UTF-8
+encoding: utf-8
+
+# defaults
+defaults:
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: page
+
+# Collections for texts
+collections:
+  texts:
+    output: true
+  posts:
+    output: true
+    permalink: /b/:title-:year:month:day/
+  notes:
+    output: true
+    permalink: /notes/:path:output_ext
+  guides:
+    output: true
+    permalink: /guides/:path/:title:output_ext
+
+# Markdown specs
 markdown: kramdown
-#permalink: ordinal
-permalink: /notes/:categories/:year:month:day/:title/
 
-# ===== Octopress ==================
-# Default extension for new posts and pages
-post_ext: md
-page_ext: html
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 
-# Default templates for posts and pages
-# Found in _templates/
-post_layout: post
-page_layout: page
-media_layout: media
-link_layout: link
+# Custom vars
+version:             0.0.6
 
-# Format titles with titlecase?
-titlecase: true
+# Exclusions from the final site
+exclude: [optional, vendor]
 
-# Change default template file (in _templates/)
-draft_template: draft
-post_template: post
-page_template: page
-media_template: media
-link_template: link
+

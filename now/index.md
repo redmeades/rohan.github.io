@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: Now
-permalink: /now
+permalink: /now/
 menu: true
 date: 2016-07-28
 ---
