@@ -125,10 +125,12 @@ h1 {
 }
 
 h1.post-title {
+	color: #841212;
 	font-size: 1.4rem;
 }
 
 h2 {
+	color: #841212;
 	margin-top: 1rem;
 	font-size: 1.2rem;
 }
