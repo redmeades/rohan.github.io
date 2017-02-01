@@ -435,7 +435,10 @@ a.sidebar-nav-item:focus {
   top:  .8rem;
   left: 1rem;
   display: block;
-  padding: .25rem .75rem;
+  padding-top: .25rem;
+  padding-bottom: .25rem;
+  padding-left: 0rem;
+  padding-right: 0rem;
   color: #505050;
   background-color: #fff;
   border-radius: .25rem;
