@@ -156,6 +156,7 @@ p {
 
 strong {
   color: #303030;
+  text-shadow: 2px 2px 2px #ccffff;
 }
 
 
@@ -196,6 +197,15 @@ abbr {
 abbr[title] {
   cursor: help;
   border-bottom: 1px dotted #e5e5e5;
+}
+
+div.highlighter-rouge {
+    /*white-space:nowrap;*/
+}
+pre.highlight {
+    width: auto;
+    overflow-x: scroll;
+    white-space:pre;
 }
 
 /* Search Highlihting */
