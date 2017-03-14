@@ -1,5 +1,6 @@
 ---
 title: "Dealing with MS Word"
+layout: tech
 date: 2017-01-20
 ---
 ## AutoSave and Recovery ##

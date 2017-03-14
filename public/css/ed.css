@@ -275,7 +275,9 @@ tbody tr:nth-child(odd) th {
   font-weight: 300;
 }
 
-
+#crumbs {
+  font-size: small;
+}
 /*
  * Messages
  *
