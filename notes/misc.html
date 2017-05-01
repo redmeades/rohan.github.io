@@ -1,0 +1,16 @@
+---
+layout: page
+title: Notes on Miscellaneous matters
+permalink: /notes/misc/
+menu: false
+---
+<ul>
+  {% for note in site.notes %}
+    {% if note.layout == 'misc' %}
+      <li>
+        <a class="" href="{{ note.url | prepend: site.baseurl }}">{{ note.title }}</a>
+        (<span class="post-meta">{{ note.date | date: "%b %-d, %Y" }}</span>)
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
