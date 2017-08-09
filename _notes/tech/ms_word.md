@@ -3,6 +3,14 @@ title: "Dealing with MS Word"
 layout: tech
 date: 2017-01-20
 ---
+## Text blank ##
+
+We had an issue with Word on Mac version 15.32 where opening a document presents you with a blank page, but the text is present, but 'hidden'.
+
+Selecting the text and changing the font, or the font colour or the hidden attribute did not correct it.
+
+But, switching to outline view and then back to print view forced the rendering of the text...
+
 ## AutoSave and Recovery ##
 
 From <http://smallbusiness.chron.com/open-autosaved-asd-files-47094.html> we learn that there are a few

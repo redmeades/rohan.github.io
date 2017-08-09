@@ -1,6 +1,7 @@
 ---
 title: The Vortex Pok3r
 layout: tech
+date: 2017-08-09
 ---
 I have been looking around for some time for a mechanical keyboard and wondering if I could get away with a 60% one. 60% means that you take a regular keyboard and drop off the numeric keypad, the arrow keys, the insert/delete/etc cluster and the function keys (F1, F2, etc)... The great thing about the Pok3r is that while it is 60%, it does have most keys as possibilites and the ability to reassign keys on the keyboard itself, allowing for some interesting combinations. Here are some notes about configuring a Vortex Pok3r to be how I (currently) like things.
 
