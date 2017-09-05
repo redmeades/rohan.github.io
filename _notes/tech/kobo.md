@@ -1,7 +1,7 @@
 ---
 title: "Using a Kobo e-reader"
 layout: tech
-date: "2017-09-06"
+date: 2017-09-06
 ---
 
 I have a [Kobo Aura H20 e-reader](https://au.kobobooks.com/products/kobo-aura-h2o).
