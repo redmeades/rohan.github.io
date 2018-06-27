@@ -3,11 +3,10 @@ title: "Using a Kobo e-reader"
 layout: tech
 date: 2017-09-06
 ---
-
 I have a [Kobo Aura H20 e-reader](https://au.kobobooks.com/products/kobo-aura-h2o).
 
 Being waterproof is definitely an advantage - I once had a water-bottle empty
-itself in my backpack which had the Kobo.
+itself in my backpack which had the Kobo. Any other device would not have survived this.
 
 ### Adobe Digital Editions
 
@@ -35,3 +34,21 @@ link.
   
 * And [this thread](https://www.mobileread.com/forums/showthread.php?t=217160)
   describes many tweaks and hacks for the ecosystem.
+
+### DRM
+
+A good place to get acquainted with ebooks and DRM is [Apprentice Alf's blog](https://apprenticealf.wordpress.com/), particularly [this introductory guide](https://apprenticealf.wordpress.com/2011/01/13/ebooks-formats-drm-and-you-%E2%80%94-a-guide-for-the-perplexed/)
+
+#### KFX
+
+* <https://www.mobileread.com/forums/showthread.php?t=283371>
+* <https://github.com/apprenticeharper/DeDRM_tools/issues/38>
+
+### Pocket
+
+* <https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin/issues/9>
+* <https://www.reddit.com/r/kobo/comments/77kc9k/pocket_on_kobo/>
+* <https://www.reddit.com/r/kindle/comments/3bu9gl/frustrated_with_calibre_news_sources_other/>
+* A solution <https://www.reddit.com/r/kindle/comments/1wcznt/way_to_import_articles_from_pocket_to_kindle/chmnall/>
+* <https://github.com/rakanalh/pocket-cli>
+* <https://p2k.co/>
