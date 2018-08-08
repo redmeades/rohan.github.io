@@ -15,6 +15,8 @@ There are a number of types of documents that you can write in plain old text - 
 documents like this article, or a more scholarly essay, music, configuration files, data,
 graphs; all of which can be edited on tablets, phones, computers, by Windows, Macs, and Linux boxes.
 
+Another way to think about this is in terms of a [100 year infrastructure](https://doriantaylor.com/the-hundred-year-infrastructure) - what formats do you want your documents in in 100 years time? A significant number of documents written in the recent past will be in formats that will not exist on that timescale. Text will though.
+
 ## What you can do with your text documents
 
 At this point we need to look at ‘the unix way’ by which I refer to a philosophy that all unix-based
@@ -42,6 +44,16 @@ I can utilize the [git suite of tools](https://git-scm.com/) to provide versioni
 this document and track all changes to a series of documents in a repository. In fact,
 this website is [actually a git repository](https://github.com/redmeades/redmeades.github.io/)
 that has been filtered through a tool to produce the html that you now see when reading this.
+
+## Workflows
+
+It seems that there is a growing recogntions of the value of text-based workflow as they allow one to use a variety of tools that avoids both vendor and platform lock-in, can be quickly synchronised across devices and be transformed as needed.
+
+Some exmaples of the components of a workflow are:
+
+* [OrgMode](http://orgmode.org/) for emacs; or [for ViM](https://github.com/jceb/vim-orgmode) - a text based todo, calendar and notes system.
+* <http://www.myproductivemac.com/blog/plain-text-notes-with-devonthink-to-go-21082016>
+* <https://joebuhlig.com/an-alternative-to-evernote/>
 
 ## Scholarship and plain text
 
