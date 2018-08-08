@@ -4,20 +4,27 @@ title: "Notes on producing epub documents"
 permalink: /guides/epub/
 date: 2016-02-20
 ---
+Our purpose here is to run through a process that will produce a standard
+formatted epub with the minimum of effort.
+
 ## Basics ##
 
 Probably the easiest way to write to content for your epub is to write in
-[markdown](https://daringfireball.net/projects/markdown/), which I would recommend
-as [text based formats are vastly superior](/guides/text/).
+[markdown](https://daringfireball.net/projects/markdown/), which I would
+recommend as [text based formats are vastly superior](/guides/text/).
 
-Probably the easiest way to generate an epub document is to use
-[pandoc](http://pandoc.org).
+And probably the easiest way to generate an epub document from those those text
+files is to use [pandoc](http://pandoc.org).
 
-By using this combination, you get many powerful things built-in.
+By using this combination, you get many powerful aspects of publishing to an epub file
+built into the tools and their defaults.
 
 ### Frontmatter
 
-http://pandoc.org/README#epub-metadata
+In order to have a properly formed epub document, you will need to include some
+information such as the author, title, licence, etc. This appears in the
+frontmatter and metadata of the document. If you are using pandoc, you can read
+up on it at <http://pandoc.org/README#epub-metadata>
 
 ## The niceties ##
 
