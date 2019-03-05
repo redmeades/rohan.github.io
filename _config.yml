@@ -4,7 +4,7 @@
 title:               'Tempting Shortcuts'
 tagline:             'Working notes on the slower path'
 description:         "I'm a laconic learner. This site is an attempt to rectify the former. I spend most of my time thinking about the intersection of education, technology and theology."
-url:                 '/'
+url:                 'http://rohan.rohanandkate.net'
 baseurl:             ''
 
 # About/contact
@@ -16,7 +16,7 @@ author:
 # Permalinks
 
   #permalink: pretty
-permalink: /:title-:year:month:day/
+permalink: /:year:month:day-:title/
 
 # Set encoding to UTF-8
 encoding: utf-8

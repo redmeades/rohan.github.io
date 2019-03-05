@@ -38,4 +38,21 @@ I have tried:
 * or Virtual Pacer <https://apps.garmin.com/en-AU/apps/1825bb91-1a47-4283-8564-f96544b2085e>
 * or Race Pacer <https://apps.garmin.com/en-AU/apps/03098a88-2841-4cc4-8f03-3afa6a19ea20#0>
 
+### some watches and reviews I considered
 
+* w/gps Garmin Forerunner 235
+* Garmin vivoactive 3
+* hiking Ambit3 Vertical
+* garmin comparisons https://garminforerunner.com/garmin-forerunner-comparison-chart/
+* and https://www.wareable.com/garmin/best-garmin-watch
+* garmin app display https://apps.garmin.com/en-US/apps/a520cc32-75b2-4b19-a97d-1079b931dc3d#0
+* 235 review http://www.techradar.com/reviews/garmin-forerunner-235/3#article-body
+* 235 review https://www.dcrainmaker.com/2015/11/garmin-fr230-fr235-review.html
+* 235 review https://garminforerunner.com/reviews/garmin-forerunner-235-review/
+* 235 review https://www.wareable.com/garmin/garmin-forerunner-235-review
+* 235 pricing: https://www.shopbot.com.au/pp-garmin-forerunner-235-price-527736.html
+* va3 review https://www.wareable.com/garmin/garmin-vivoactive-3-review
+* va3 pricing https://www.getprice.com.au/buy-best-garmin-vivoactive-3.htm
+* va3 https://www.harveynorman.com.au/garmin-vivoactive-3-gps-smart-watch-with-activity-tracking-gunmetal-with-black-band.html
+* http://www.rebelsport.com.au/Product/Garmin-Vivoactive-3-Watch/543710?menuFrom=412
+* https://www.ja-gps.com.au/Results.aspx?q=forerunner+235

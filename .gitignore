@@ -4,7 +4,6 @@ _site
 _drafts
 .ruby-version
 
-
 # Numerous always-ignore extensions
 *.diff
 *.err

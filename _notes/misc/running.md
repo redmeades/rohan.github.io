@@ -47,6 +47,7 @@ There are also some strengthening work you can do to [build up the hip area](htt
 
 * A local [trail running series](http://rapidascent.com.au/TrailRunningSeries/EventDetails/overview) has the courses mapped on Google [here](https://www.google.com/maps/d/viewer?mid=1rpB1vhhZgrIr1XWPxIOaMm9r0XY&ll=-37.82905873229292%2C145.3960034957703&z=17)
 * There is [one loop segment](https://www.strava.com/segments/10767033) that looks good
+* The [rollercoaster run](https://www.strava.com/segments/6912126)
 * There is a [nice 12k loop across the face of the Dandenongs](https://www.trailrunproject.com/trail/7034259/kalorama-doongalla-loop)
 
 ### Other events
