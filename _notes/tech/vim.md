@@ -20,6 +20,11 @@ an 'illegal' bibtex document. This[^1] will fix up the entries:
 
 [^1]: From <https://stackoverflow.com/questions/627932/vi-regular-expressions-replacing-using-current-line-number>
 
+## links
+
+* [quoting and unquoting words](https://stackoverflow.com/questions/2147875/what-vim-commands-can-be-used-to-quote-unquote-words)
+* ViM [and splits](https://thoughtbot.com/blog/vim-splits-move-faster-and-more-naturally)
+
 # installing/updating plugins
 
 cd $HOME/.spf13-vim-3/
