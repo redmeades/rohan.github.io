@@ -1,6 +1,7 @@
 ---
 title: "ViM - my editor of choice"
 layout: tech
+date: 20190308
 ---
 I've been coding and administering servers for quite a while now and early on I decide
 to go with ViM as my editor and begin to learn the deep ways of it.
@@ -16,7 +17,9 @@ to go with ViM as my editor and begin to learn the deep ways of it.
 When one downloads the 'citation entry and references' from the T & F journal sites, it produces
 an 'illegal' bibtex document. This[^1] will fix up the entries:
 
-> %s/@article {,/\="@article{".line(".").","/
+```
+%s/@article {,/\="@article{".line(".").","/
+```
 
 [^1]: From <https://stackoverflow.com/questions/627932/vi-regular-expressions-replacing-using-current-line-number>
 
@@ -27,11 +30,19 @@ an 'illegal' bibtex document. This[^1] will fix up the entries:
 
 # installing/updating plugins
 
+The plugin infrastructure for ViM is awesome, for spf13:
+
+```
 cd $HOME/.spf13-vim-3/
 git pull
 edit ~/.vimrc.bundles.local
 vim +BundleInstall! +BundleClean +q
+```
 
-# orgmode
+## Fugitive
+
+This is a fantastic interface to [Git](). [Code](https://github.com/tpope/vim-fugitive) and [introduction](http://vimcasts.org/episodes/fugitive-vim---a-complement-to-command-line-git/)
+
+## orgmode
 
 recently, this was to add an [orgmode](http://orgmode.org) [vim plugin](https://github.com/jceb/vim-orgmode) [tools](http://orgmode.org/worg/org-tools/index.html)
