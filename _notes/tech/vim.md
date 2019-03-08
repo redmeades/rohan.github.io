@@ -39,6 +39,12 @@ edit ~/.vimrc.bundles.local
 vim +BundleInstall! +BundleClean +q
 ```
 
+## Vimwiki
+
+A useful plugin for writing text based notes is [vimwiki](http://vimwiki.github.io/).
+I am adopting it based on [this post on taking
+notes](https://jamesbvaughan.com/markdown-pandoc-notes/)
+
 ## Fugitive
 
 This is a fantastic interface to [Git](). [Code](https://github.com/tpope/vim-fugitive) and [introduction](http://vimcasts.org/episodes/fugitive-vim---a-complement-to-command-line-git/)
