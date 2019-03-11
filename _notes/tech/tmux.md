@@ -1,6 +1,6 @@
 ---
 title: Notes on rolling out tmux
-layout: notes
+layout: tech
 ---
 
 I have used [screen] for a while, particularly when doing server
