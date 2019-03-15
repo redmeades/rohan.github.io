@@ -6,24 +6,52 @@ menu: true
 ---
 
 <div class="home">
-  <div class="" style="width: 25%; float: left; padding: 10px;">
+  <div class="" style="width: 25%; float: left; padding: 1px;">
     <a href="/notes/edu/">
       <h2>Education</h2>
     </a>
+  {% for note in site.notes %}
+    {% if note.layout == 'edu' %}
+      <p>
+        <a class="" href="{{ note.url | prepend: site.baseurl }}">{{ note.title }}</a>
+      </p>
+    {% endif %}
+  {% endfor %}
   </div>
-  <div class="" style="width: 25%; float: left; padding: 10px;">
+  <div class="" style="width: 25%; float: left; padding: 1px;">
     <a href="/notes/tech/">
       <h2>Technology</h2>
     </a>
+  {% for note in site.notes %}
+    {% if note.layout == 'tech' %}
+      <p>
+        <a class="" href="{{ note.url | prepend: site.baseurl }}">{{ note.title }}</a>
+      </p>
+    {% endif %}
+  {% endfor %}
   </div>
-  <div class="" style="width: 25%; float: left; padding: 10px;">
+  <div class="" style="width: 25%; float: left; padding: 1px;">
     <a href="/notes/theol/">
       <h2>Theology</h2>
     </a>
+  {% for note in site.notes %}
+    {% if note.layout == 'theol' %}
+      <p>
+        <a class="" href="{{ note.url | prepend: site.baseurl }}">{{ note.title }}</a>
+      </p>
+    {% endif %}
+  {% endfor %}
   </div>
-  <div class="" style="width: 25%; float: left; padding: 10px;">
+  <div class="" style="width: 25%; float: left; padding: 1px;">
     <a href="/notes/misc/">
       <h2>Miscellaneous</h2>
     </a>
+  {% for note in site.notes %}
+    {% if note.layout == 'misc' %}
+      <p>
+        <a class="" href="{{ note.url | prepend: site.baseurl }}">{{ note.title }}</a>
+      </p>
+    {% endif %}
+  {% endfor %}
   </div>
 </div>

@@ -80,11 +80,19 @@ body {
 }
 
 @media (min-width: 38em) {
+  .container .home {
+    width: 34rem;
+    font-size: 16px;
+  }
   .container {
     max-width: 32rem;
   }
 }
 @media (min-width: 56em) {
+  .container .home {
+    width: 42rem;
+    font-size: 16px;
+  }
   .container {
     max-width: 38rem;
   }
