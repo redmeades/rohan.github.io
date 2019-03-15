@@ -16,9 +16,13 @@ resources.
 * <https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340>
 * <https://thoughtbot.com/blog/a-tmux-crash-course>
 * <https://danielmiessler.com/study/tmux/>
+* [A cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
+* [A comprehensive guide](https://leanpub.com/the-tao-of-tmux/read)
 * [More advanced](https://thoughtbot.com/blog/seamlessly-navigate-vim-and-tmux-splits)
   as both ViM and tmux can create split windows.
 * and [4 useful tips](https://fedoramagazine.org/4-tips-better-tmux-sessions/)
+* More [ViM and tmux](https://rhnh.net/2011/08/20/vim-and-tmux-on-osx/)
+* Software development [with vim and tmux](http://joshuadavey.com/2012/01/10/faster-tdd-feedback-with-tmux-tslime-vim-and-turbux/)
 
 ### tmux configuration
 
