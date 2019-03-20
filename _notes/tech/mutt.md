@@ -28,4 +28,4 @@ This post helped to get the encryption settings right <http://irreal.org/blog/?p
 * isync/mbsync + systemd + notmuch <https://bostonenginerd.com/posts/notmuch-of-a-mail-setup-part-1-mbsync-msmtp-and-systemd/>
 * using this setup to back up gmail <https://kevin.deldycke.com/2012/08/gmail-backup-mbsync/>
 * alternative way to backup gmail <https://www.mattcutts.com/blog/backup-gmail-in-linux-with-getmail/> using [getmail](http://pyropus.ca/software/getmail/configuration.html)
-
+* two ways to [forward an email](http://www.shallowsky.com/blog/linux/mutt-fwd-attachments.html)
