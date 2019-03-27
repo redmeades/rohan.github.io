@@ -3,10 +3,13 @@ title: Notes on rolling out tmux
 layout: tech
 ---
 
-I have used [screen] for a while, particularly when doing server
-admin[^fn-compare].
+For anyone that spends a reasonable amount of time in a terminal, uses Vi, or
+has adopted a [text based approach], the use of a 'multiplexer' is helpful for
+managing the various terminals that one inevitably ends up having open at any
+one time.
 
-Recently, I came across a similar tool, [tmux](https://github.com/tmux/tmux/wiki)
+I have used [screen] for a while, particularly when doing server
+admin[^fn-compare]. Recently, I came across a similar tool, [tmux](https://github.com/tmux/tmux/wiki)
 that I thought would be worth testing out. There can be a steep learning curve
 with some of these things, and tmux was the same. Here are some notes, tips and
 resources.
@@ -34,5 +37,23 @@ resources.
 * [another guide](https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/) to configuration
 * The config file references a color palette of 16 or 256 colours. You can
   display a list of these colours by [running this shell script](https://superuser.com/questions/285381/how-does-the-tmux-color-palette-work).
+
+### reference
+
+You can [move a window between sessions](https://stackoverflow.com/questions/3094946/move-window-between-tmux-clients)
+
+> move-window -t other_session:
+
+And [move a pane between windows and
+sessions](https://superuser.com/questions/1105090/move-a-tmux-pane-to-another-session)
+
+<!--
+NOTES
+
+* https://hpcc.ucr.edu/manuals_linux-cluster_terminalIDE.html
+* http://manuals.bioinformatics.ucr.edu/home/programming-in-r/vim-r
+* https://github.com/benmills/vimux
+* https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/
+-->
 
 [^fn-compare]: A [comparison of keybindings](http://hyperpolyglot.org/multiplexers)
