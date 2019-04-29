@@ -3,7 +3,7 @@ title: Notes on using R
 layout: tech
 ---
 
-See my [Guide to R]({% link _guides/r-lang.md %}) for more use oriented notes.
+See my [Guide to R]({% link _guides/r-for-data-analysis-reporting.md %}) for more use oriented notes.
 
 ### Installing dev versions of packages
 
