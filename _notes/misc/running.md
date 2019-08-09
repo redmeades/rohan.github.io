@@ -33,6 +33,15 @@ I feel comfortable at that distance, so the next phase is to train for speed and
 * <https://www.halhigdon.com/training-programs/10k-training/intermediate-10k/>
 
 And of course there is dealing with [fatigue](https://runnersconnect.net/coach-corner/how-to-manage-fatigue-and-why-it-is-necessary/)
+
+### Longer Training
+
+* <http://www.marathon-training-tips.com/ultra-marathon-training.html>
+* <https://www.active.com/running/articles/how-to-train-for-your-first-ultra-marathon>
+* <https://nz.srichinmoyraces.org/races/christchurch/ultra_marathons/training_foran_ultra_marathon/preparing_foryourfirst_ultra_marathon>
+* This schedule is almost the opposite of #2 - 3 shorter back to back during the
+  week <http://www.scrunners.org/ultramarathon-training-schedule-generator.html>
+
 ### Injury
 
 I was quite careful in shifting the emphasis of the run/walk, not running downhill for months and then slowly building up my distance.
