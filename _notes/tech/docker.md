@@ -2,7 +2,7 @@
 title: Getting up and running with Docker
 layout: tech
 ---
-We decided to look into leveraging [Docker](https://docker.com) for deploying some of our applications rather than our current [virtualisation](virtualisation.html) approach.
+We decided to look into leveraging [Docker](https://docker.com) for deploying some of our applications rather than our current [virtualisation]({% link _notes/tech/virtualisation.md %}) approach.
 
 Seeing that Docker was already available in [Homebrew](https://brew.sh) I ran the install commands ... and got nothing immediately usable :(
 
