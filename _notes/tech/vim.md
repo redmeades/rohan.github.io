@@ -25,6 +25,7 @@ an 'illegal' bibtex document. This[^1] will fix up the entries:
 
 * [quoting and unquoting words](https://stackoverflow.com/questions/2147875/what-vim-commands-can-be-used-to-quote-unquote-words)
 * ViM [and splits](https://thoughtbot.com/blog/vim-splits-move-faster-and-more-naturally)
+* [Dealing with long lines, wrapping, etc](https://agilesysadmin.net/how-to-manage-long-lines-in-vim/)
 
 # installing/updating plugins
 
