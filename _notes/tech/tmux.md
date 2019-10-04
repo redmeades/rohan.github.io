@@ -47,6 +47,13 @@ You can [move a window between sessions](https://stackoverflow.com/questions/309
 And [move a pane between windows and
 sessions](https://superuser.com/questions/1105090/move-a-tmux-pane-to-another-session)
 
+Often you create windows in the order that you need them, but later want to
+adjust. A useful command is
+
+> swap-window -s id -t 1
+
+Other variations are discussed at [this SE thread](https://superuser.com/questions/343572/how-do-i-reorder-tmux-windows)
+
 <!--
 NOTES
 
