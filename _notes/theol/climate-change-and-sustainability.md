@@ -32,8 +32,8 @@ A better set of questions are:
 * transport
 
     * use public transport 
-    * tyres
-    * fuel
+    * tyres and alignment
+    * fuel: the Guardian has a [list of largest contributors](https://www.theguardian.com/environment/2019/oct/09/revealed-20-firms-third-carbon-emissions). Caltex the worst, Mobil next, BP, then Shell. BHP makes the list.
     * regular servicing
 
 ## land use and degradation
