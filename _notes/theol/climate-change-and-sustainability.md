@@ -33,7 +33,11 @@ A better set of questions are:
 
     * use public transport 
     * tyres and alignment
-    * fuel: the Guardian has a [list of largest contributors](https://www.theguardian.com/environment/2019/oct/09/revealed-20-firms-third-carbon-emissions). Caltex the worst, Mobil next, BP, then Shell. BHP makes the list.
+    * fuel:
+
+        * the Guardian has a [list of largest contributors](https://www.theguardian.com/environment/2019/oct/09/revealed-20-firms-third-carbon-emissions). Caltex the worst, Mobil next, BP, then Shell. BHP makes the list.
+        * [does higher octane perform better?](https://www.nytimes.com/2019/09/30/smarter-living/regular-vs-premium-gas-redux.html?fallback=0&recId=1S2KSkZs9yLYPS2kvuJ5sfuCIS9&locked=0&geoContinent=OC&geoRegion=VIC&recAlloc=random&geoCountry=AU&blockId=home-living-vi&imp_id=745943451&action=click&module=Smarter%20Living&pgtype=Homepage)
+
     * regular servicing
 
 ## land use and degradation
