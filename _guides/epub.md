@@ -19,6 +19,9 @@ files is to use [pandoc](http://pandoc.org).
 By using this combination, you get many powerful aspects of publishing to an epub file
 built into the tools and their defaults.
 
+[A useful list of tools for creating and editing epub
+files)[http://www.daisy.org/daisypedia/tools-creating-epub-3-files]
+
 ### Frontmatter
 
 In order to have a properly formed epub document, you will need to include some
