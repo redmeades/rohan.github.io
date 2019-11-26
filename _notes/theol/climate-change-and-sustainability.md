@@ -16,14 +16,50 @@ A better set of questions are:
 * More critically, 'who is denying the effect of climate change and what do they
   gain by doing so?' and the corresponding 'who is affirming climate change and
   what might they gain from the shifts advocated?'
+* how are we using our land? Is this sustainable over the long-term?
 
-### Notes
+## burning fossil fuels
+
+### energy
+
+* Energy and the internet
+
+    * Mozilla's IRL podcast [has an episode on this](https://irlpodcast.org/season5/episode3/)
+    * [Greenpeace assessment of internet companies](http://www.clickclean.org/australia/en/)
+    * Streaming music is [a major
+      issue](https://www.rollingstone.com/music/music-features/environmental-impact-streaming-music-835220/)
+
+* transport
+
+    * use public transport 
+    * tyres and alignment
+    * fuel:
+
+        * the Guardian has a [list of largest contributors](https://www.theguardian.com/environment/2019/oct/09/revealed-20-firms-third-carbon-emissions). Caltex the worst, Mobil next, BP, then Shell. BHP makes the list.
+        * [does higher octane perform better?](https://www.nytimes.com/2019/09/30/smarter-living/regular-vs-premium-gas-redux.html?fallback=0&recId=1S2KSkZs9yLYPS2kvuJ5sfuCIS9&locked=0&geoContinent=OC&geoRegion=VIC&recAlloc=random&geoCountry=AU&blockId=home-living-vi&imp_id=745943451&action=click&module=Smarter%20Living&pgtype=Homepage)
+
+    * regular servicing
+
+## land use and degradation
+
+Our land use can be a double whammy - losing vegetation that captures carbon
+and replacing it with carbon producing livestock and utilising chemicals that
+rely on fossil fuels.
+
+## Actions
+
+* purchase offsets [via CarbonFund](https://www.carbonfund.org/)
+* download rather than stream all media; purchase rather than stream
+* 
+
+## Notes
 
 The issue of reducing food and child production is not it - it is a distribution
 of the current assets that is the issue.
 
 * https://www.nytimes.com/2017/04/19/magazine/our-climate-future-is-actually-our-climate-present.html?emc=edit_mbae_20170419&nl=&nlid=69654270&te=1
 * https://www.nytimes.com/section/magazine?emc=edit_mbae_20170419&nl=&nlid=69654270&te=1
+* [Flying is a major contributor](https://web.archive.org/web/20190505230926/https:/www.nytimes.com/2017/07/27/climate/airplane-pollution-global-warming.htm://web.archive.org/web/20190505230926/https:/www.nytimes.com/2017/07/27/climate/airplane-pollution-global-warming.html)
 
 Videos:
 

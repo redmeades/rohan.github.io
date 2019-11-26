@@ -21,12 +21,11 @@ an 'illegal' bibtex document. This[^1] will fix up the entries:
 %s/@article {,/\="@article{".line(".").","/
 ```
 
-[^1]: From <https://stackoverflow.com/questions/627932/vi-regular-expressions-replacing-using-current-line-number>
-
 ## links
 
 * [quoting and unquoting words](https://stackoverflow.com/questions/2147875/what-vim-commands-can-be-used-to-quote-unquote-words)
 * ViM [and splits](https://thoughtbot.com/blog/vim-splits-move-faster-and-more-naturally)
+* [Dealing with long lines, wrapping, etc](https://agilesysadmin.net/how-to-manage-long-lines-in-vim/)
 
 # installing/updating plugins
 
@@ -49,6 +48,11 @@ notes](https://jamesbvaughan.com/markdown-pandoc-notes/)
 
 This is a fantastic interface to [Git](). [Code](https://github.com/tpope/vim-fugitive) and [introduction](http://vimcasts.org/episodes/fugitive-vim---a-complement-to-command-line-git/)
 
-## orgmode
+## Advanced: folding
 
-recently, this was to add an [orgmode](http://orgmode.org) [vim plugin](https://github.com/jceb/vim-orgmode) [tools](http://orgmode.org/worg/org-tools/index.html)
+Vim has the ability to collapse (fold) and expand sections of the file to remove
+them from view until they need to be looked at. You can find [a basic
+introduction](https://www.linux.com/tutorials/vim-tips-folding-fun/).
+
+[^1]: From <https://stackoverflow.com/questions/627932/vi-regular-expressions-replacing-using-current-line-number>
+

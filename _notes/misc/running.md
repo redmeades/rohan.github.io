@@ -33,6 +33,15 @@ I feel comfortable at that distance, so the next phase is to train for speed and
 * <https://www.halhigdon.com/training-programs/10k-training/intermediate-10k/>
 
 And of course there is dealing with [fatigue](https://runnersconnect.net/coach-corner/how-to-manage-fatigue-and-why-it-is-necessary/)
+
+### Longer Training
+
+* <http://www.marathon-training-tips.com/ultra-marathon-training.html>
+* <https://www.active.com/running/articles/how-to-train-for-your-first-ultra-marathon>
+* <https://nz.srichinmoyraces.org/races/christchurch/ultra_marathons/training_foran_ultra_marathon/preparing_foryourfirst_ultra_marathon>
+* This schedule is almost the opposite of #2 - 3 shorter back to back during the
+  week <http://www.scrunners.org/ultramarathon-training-schedule-generator.html>
+
 ### Injury
 
 I was quite careful in shifting the emphasis of the run/walk, not running downhill for months and then slowly building up my distance.
@@ -46,6 +55,10 @@ There are also some strengthening work you can do to [build up the hip area](htt
 ### Routes
 
 * A local [trail running series](http://rapidascent.com.au/TrailRunningSeries/EventDetails/overview) has the courses mapped on Google [here](https://www.google.com/maps/d/viewer?mid=1rpB1vhhZgrIr1XWPxIOaMm9r0XY&ll=-37.82905873229292%2C145.3960034957703&z=17)
+
+    * The [short course](https://connect.garmin.com/modern/course/12846501)
+    * And the [long course](https://connect.garmin.com/modern/course/14498929)
+
 * There is [one loop segment](https://www.strava.com/segments/10767033) that looks good
 * The [rollercoaster run](https://www.strava.com/segments/6912126)
 * There is a [nice 12k loop across the face of the Dandenongs](https://www.trailrunproject.com/trail/7034259/kalorama-doongalla-loop)

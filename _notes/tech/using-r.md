@@ -52,3 +52,24 @@ installedpackages <- as.vector(tmp.pkg.list[is.na(tmp.pkg.list[,"Priority"]), 1]
 # install list of packages
 for (count in 1:length(installedpackages)) install.packages(installedpackages[count])
 ```
+
+
+## links to get cetain things working
+
+* [Arrange by variable not facet](https://dplyr.tidyverse.org/reference/arrange.html)
+* and <https://stackoverflow.com/questions/5208679/order-bars-in-ggplot2-bar-graph>
+* and <https://rstudio-pubs-static.s3.amazonaws.com/7433_4537ea5073dc4162950abb715f513469.html>
+* and <https://www.r-bloggers.com/how-do-i-re-arrange-ordering-a-plot-revisited/>
+* Plotting [Cumulative Data](https://ggplot2.tidyverse.org/reference/stat_ecdf.html)
+* [and](https://stats.stackexchange.com/questions/30858/how-to-calculate-cumulative-distribution-in-r)
+* [and a function](https://statisticsglobe.com/cumsum-r-function-explained/)
+* Barplots [Data to Viz](https://www.data-to-viz.com/graph/barplot.html)
+* And [R Graph gallery](https://www.r-graph-gallery.com/barplot.html)
+* and [more](https://ggplot2.tidyverse.org/reference/geom_boxplot.html)
+* and [further](https://ggplot2.tidyverse.org/reference/geom_bar.html)
+* and <https://www.statmethods.net/graphs/bar.html>
+* [advanced graphs](https://www.statmethods.net/advgraphs/index.html)
+* colour [palettes](https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/)
+* and expanding it beyond the [small default](https://www.r-bloggers.com/how-to-expand-color-palette-with-ggplot-and-rcolorbrewer/)
+* often one wants [interquartile ranges](http://www.r-tutor.com/elementary-statistics/numerical-measures/interquartile-range)
+* and [this](https://statisticsglobe.com/quantile-function-in-r-example)

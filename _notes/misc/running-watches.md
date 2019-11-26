@@ -38,6 +38,11 @@ I have tried:
 * or Virtual Pacer <https://apps.garmin.com/en-AU/apps/1825bb91-1a47-4283-8564-f96544b2085e>
 * or Race Pacer <https://apps.garmin.com/en-AU/apps/03098a88-2841-4cc4-8f03-3afa6a19ea20#0>
 
+### Using a Garmin
+
+* Not charging? [try
+  this](https://support.garmin.com/en-US/?faq=3zgpbykCHZ6cLLaLGBzE27&searchType=noProduct) and [this](http://www.trainwellracewell.com/garmin-forerunner-110-wont-charge-blank-screen/)
+
 ### some watches and reviews I considered
 
 * w/gps Garmin Forerunner 235
