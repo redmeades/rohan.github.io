@@ -1,5 +1,8 @@
 ---
 title: Using R for data, analysis and reporting
+layout: guide
+permalink: /guides/using-r/
+date: 2019-11-27
 ---
 
 I have been using R for a while to analyse data sets at the University and write
