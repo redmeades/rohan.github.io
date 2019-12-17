@@ -55,13 +55,13 @@ docker inspect 2de21269c942
 
 we might leverage the images at <https://github.com/docker-library/ruby>
 
-this woule help to specify the ruby version to be the same as our rbenv one
+this would help to specify the ruby version to be the same as our rbenv one
 
-
-work through <https://blog.codeship.com/running-rails-development-environment-docker/>
-and <https://www.datawire.io/not-engineer-running-3-5gb-docker-images/>
-and <https://blog.jessfraz.com/post/docker-containers-on-the-desktop/>
-and compose <https://docs.docker.com/compose/install/>
+* work through <https://blog.codeship.com/running-rails-development-environment-docker/>
+* and <https://www.datawire.io/not-engineer-running-3-5gb-docker-images/>
+* and <https://blog.jessfraz.com/post/docker-containers-on-the-desktop/>
+* and compose <https://docs.docker.com/compose/install/>
+* Dinghy for mgt <https://github.com/codekitchen/dinghy>
 
 ### notes
 
