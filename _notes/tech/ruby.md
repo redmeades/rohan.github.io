@@ -3,6 +3,17 @@ title: Notes and tips for Ruby
 layout: tech
 ---
 
+### Data types
+
+**Enums** are interesting and interact with databases in odd ways.
+
+* <https://naturaily.com/blog/ruby-on-rails-enum>
+* <https://stackoverflow.com/questions/23686265/saving-enum-from-select-in-rails-4-1>
+* <https://www.justinweiss.com/articles/creating-easy-readable-attributes-with-activerecord-enums/>
+* <http://www.railsonmaui.com/blog/2014/10/22/enums-and-queries-in-rails-4-dot-1/>
+
+### Syntax
+
 Learning about the [percentage
 notation](https://simpleror.wordpress.com/2009/03/15/q-q-w-w-x-r-s/) which
 provides shorthand for creating data sets.
