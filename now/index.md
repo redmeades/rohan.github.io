@@ -3,22 +3,27 @@ layout: page
 title: Now
 permalink: /now/
 menu: true
-date: 2017-12-21
+date: 2019-12-13
 ---
 This idea was [proposed by Derek Sivers](http://nownownow.com/about) as a place to respond to
-“what you’d tell a friend you hadn’t seen in a year”
+"what you'd tell a friend you hadn't seen in a year"
 <hr />
 Updated: {{ page.date | date: "%b, %Y" }}
 
-I’m still coding, drumming, reading, pondering.
+I'm still coding, not so much drumming, reading, pondering theology, technology
+and education. I have been running a lot this year, but am currently recovering
+from an injury of sorts.
 
-I have taken up running.
+Our house has  to 3 at school, so the rhythms of the day and week
+are changing with a schoolwork and activities and sport.
 
-Our house has transitioned to 3 at school, so the rhythms of the day and week are changing.
+After our move from [Blackburn
+North](https://www.google.com.au/maps/@-37.8046454,145.1462904,15z) out east, we
+have moved further out and bought a house in
+[Seville](https://www.google.com.au/maps/@-37.7309831,145.4449616,13z) which is
+in a delightful location at the base of the [Yarra
+Valley](https://en.wikipedia.org/wiki/Yarra_Valley).
 
-This biggest change is that after 10 years in [Blackburn North](https://www.google.com.au/maps/@-37.8046454,145.1462904,15z)
-we have shifted to [Montrose](https://www.google.com.au/maps/@-37.8073644,145.3506885,14z).
-
-The other big change is that after 10 years at [Tabor/Eastern](https://eastern.edu.au), I have left to take up 
-a position at the [University of Divinity](https://divinity.edu.au). I am based at the Office of the Vice-Chancellor,
- looking at Education and Technology.
+Things are going well at the [University of Divinity](https://divinity.edu.au),
+with a number of key projects on the boil bringing together Theology, Education
+and Technology.
