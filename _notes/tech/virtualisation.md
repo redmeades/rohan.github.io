@@ -34,6 +34,15 @@ to the guest systems.
 * <https://doc.opensuse.org/documentation/leap/virtualization/html/book.virt/cha.kvm.intro.html>
 * <http://www.dedoimedo.com/computers/kvm-intro.html>
 
+### VirtualBox
+
+You can download a Debian [Cloud Image](https://wiki.debian.org/Cloud/SystemsComparison) and following some of
+the steps in [this script](https://gist.github.com/smoser/6066204) (lines 25-6)
+to convert the image format and then attach it to an appropriately configured VirtualBox machine (later lines).
+
+This boots up ok, but I'm not sure about the default account setup (but could
+[do this](https://lists.debian.org/debian-user/2015/08/msg00711.html))
+
 ## Putting it all together
 
 * <https://www.servethehome.com/creating-the-ultimate-virtualization-and-container-setup-with-management-guis/>
