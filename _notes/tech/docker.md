@@ -66,9 +66,10 @@ this would help to specify the ruby version to be the same as our rbenv one
 ### notes
 
 * getting started <https://docs.docker.com/get-started/part2/>
-bi-directional copying between host and container <http://stackoverflow.com/questions/22049212/docker-copy-file-from-container-to-host?rq=1> and <http://stackoverflow.com/questions/22907231/copying-files-from-host-to-docker-container?rq=1> and <http://stackoverflow.com/questions/23405689/accessing-a-docker-containers-file-system-through-terminal>
+* bi-directional copying between host and container <http://stackoverflow.com/questions/22049212/docker-copy-file-from-container-to-host?rq=1> and <http://stackoverflow.com/questions/22907231/copying-files-from-host-to-docker-container?rq=1> and <http://stackoverflow.com/questions/23405689/accessing-a-docker-containers-file-system-through-terminal>
 * reference documentation <https://docs.docker.com/engine/reference/builder/>
 * best practices <https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/>
+* which OS for the host? Well [that depends](https://containerjournal.com/features/os-best-docker-heres-decide/)
 * understanding images and containers <http://stackoverflow.com/questions/30047813/docker-rmi-unable-to-remove-images>
 * and another explanation of images and containers <http://stackoverflow.com/questions/23735149/docker-image-vs-container>
 * ruby base images <https://hub.docker.com/_/ruby/>
