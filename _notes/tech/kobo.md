@@ -8,6 +8,26 @@ I have a [Kobo Aura H20 e-reader](https://au.kobobooks.com/products/kobo-aura-h2
 Being waterproof is definitely an advantage - I once had a water-bottle empty
 itself in my backpack which had the Kobo. Any other device would not have survived this.
 
+If I was to upgrade, my current pick would be the [ClaraBW](https://us.kobobooks.com/products/kobo-clara-bw) as this too is waterproof, and is user repairable!
+
+### File format(s)
+
+One of the benefits of the Kobo platform is that it directly supports a range
+of file types, including the defacto standard epub -- unlike the Kindle which
+only supports Amazon's own proprietary format.
+
+A Kobo does support an enhanced format -- kepub -- that provides some
+additional benefits.
+
+If you are using Calibre to manage your ebook library, and I highly recommend
+you do, there is a straight-forward way to do this.
+
+Per [this Reddit
+comment](https://www.reddit.com/r/kobo/comments/vzpeey/what_method_should_i_use_to_convert_epub_to_kepub/)
+you can install the [KoboTouchExtended
+plugin](https://www.mobileread.com/forums/showthread.php?t=211135) which will
+automatically convert an epub to kepub when it syncs the book onto your device.
+
 ### Adobe Digital Editions
 
 This software was giving me grief. I found [a forum post](https://www.mobileread.com/forums/showthread.php?t=288953) that indicated it could have been a Digital Editions version compatiblituy issue and so I downloaded the recommended v2.0.1. But that threw an error. I then discovered that [Kobo points to v3.0](https://www.kobo.com/help/en-US/article/5889/troubleshooting-adobe-digital-editions?products=Adobe%20Digital%20Editions) so I downloaded and installed that [direct link](http://www.adobe.com/support/digitaleditions/downloads.html). Another error. This time it was an activation issue that [Adobe address](https://helpx.adobe.com/digital-editions/kb/activation-errors-adobe-digital-editions.html), so you can re-authorize your Digital Editions and then you are able to download the content, and after copying it, your Kobo will be able to view it - yay!
