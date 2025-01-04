@@ -82,3 +82,13 @@ Breaking this down:
 
 If you are wanting to create a small animated gif, you can look at the instruction
 on [this site](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)
+
+### Speeding up audio (w/ bonus multiple files)
+
+```bash
+#!/bin/bash
+for file in "$@"; do
+    echo "$file"
+    ffmpeg -i $file -af atempo=1.5 faster_$file
+done
+```
